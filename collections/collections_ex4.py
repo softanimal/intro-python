@@ -1,0 +1,1 @@
+# We can treat strings as a sequence because strings are ordered so you can access individual characters
